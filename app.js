@@ -39,6 +39,7 @@ function addTask() {
    deleteBtn.innerText = 'X';
    deleteBtn.classList.add('delete-btn');
    li.appendChild(deleteBtn);
+   
 }
 
 
